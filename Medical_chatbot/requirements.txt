@@ -1,0 +1,9 @@
+transformers
+langchain
+langchain_community
+langchain-huggingface
+flask
+pinecone-client
+pypdf
+python-dotenv
+langchain-pinecone
